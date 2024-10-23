@@ -4,7 +4,7 @@ import { ContentWrapper } from '@/layouts/contentWrapper';
 
 const Blog = () => {
   return (
-    <Container title="Blog | Greg Ogun">
+    <Container title="Blog Lalit Kumar">
       <ContentWrapper>
         <Heading as="h1" variant="h2">
           Blog 🖊

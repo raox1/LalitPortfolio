@@ -22,7 +22,7 @@ import { useColorModeValue } from '@chakra-ui/color-mode';
 
 const About = () => {
   return (
-    <Container title="About | Greg Ogun">
+    <Container title="About | Lalit Kumar">
       <ContentWrapper>
         <Intro />
         <Skills />

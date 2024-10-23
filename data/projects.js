@@ -57,7 +57,7 @@ export default [
     proto: null,
     repo: 'https://github.com/raox1/FoodPlazaIOS',
     id: uuidv4(),
-    feature: true
+    feature: false
   },
 
 
