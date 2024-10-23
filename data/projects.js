@@ -23,7 +23,7 @@ export default [
     logo: null,
     title: 'IOS Catalog',
     description:
-      'An application to show capabilites of IOS',
+      'An application to show capabilites of IOS, Developed with swift and swiftUI, it is for someone new learning the basics of apple mobile dev. This app is made to ease out the journey of others, someone can easily understand the code and replicate.',
     tools: [swift, figma, firebase, git],
     live: 'https://github.com/raox1/firstAppIOS',
     proto: null,
