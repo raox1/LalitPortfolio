@@ -69,18 +69,18 @@ const Hero = () => {
           w={{ base: '100%', xl: '50%' }}
         >
           <Heading mb="0.5rem" as="h1" variant="h1">
-            Hi, I’m Greg Ogun.
+            Hi, I’m Lalit Kumar.
           </Heading>
           <Text mb={{ base: '4rem', lg: '6rem' }} as="h2" variant="subtitle">
             Welcome to my corner of the internet, where you can find my works,
-            thoughts, favourite beer and other random things.
+            thoughts, favourite car and other random things.
           </Text>
           <Heading as="h3" variant="h3" mb="0.5rem">
             Ok, but who are you?
           </Heading>
           <Text fontSize="xl" mb="2rem">
             I’m a curiosity-driven, design-focused developer, building rich,
-            user-centric, inclusive experiences on the web.
+            user-centric, inclusive experiences on the mobile.
           </Text>
           <Text fontSize="xl" mb={{ base: '1rem', lg: '2rem' }}>
             Feel free to have a look around, and learn more about myself and

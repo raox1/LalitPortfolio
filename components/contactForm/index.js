@@ -69,7 +69,7 @@ const ContactForm = () => {
         <Input
           value={inputs.name}
           onChange={handleChange}
-          placeholder="jimbob"
+          placeholder="Your Name"
         />
       </FormControl>
       <FormControl id="email">

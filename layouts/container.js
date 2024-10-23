@@ -39,7 +39,7 @@ const Container = ({ children, ...customMeta }) => {
 
 const Seo = ({ ...customMeta }) => {
   const meta = {
-    title: 'Greg Ogun',
+    title: 'Lalit Kumar',
     description:
       'Self-taught developer with a focus on designing and building scalable, maintainable and accessible solutions on the web.',
     image: 'https://gregogun.com/static/images/banner.png',

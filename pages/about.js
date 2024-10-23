@@ -43,9 +43,9 @@ const Intro = () => {
       </Heading>
       <ChakraContainer maxW={{ base: '20rem', sm: '30rem', md: '40rem' }} p={0}>
         <Text mb="2rem">
-          Hey there! I’m Greg, a self-taught developer fascinated by the
-          prospect of using technology to aid in creating a fairer, more
-          inclusive world.
+          Hey there! I’m Lalit, a Software developer focused on harnessing
+          the power of technology to solve real-world problems and make a 
+          difference in the world.
         </Text>
         <Text mb="2rem">
           I like to spend my time designing and building solutions, engaging
@@ -53,20 +53,21 @@ const Intro = () => {
           pair programming and group projects.
         </Text>
         <Text mb="6.5rem">
-          I studied Music Technology at Bournemouth University from 2015-2018
-          and have since been working part-time jobs in retail whilst I work on
-          various music projects and more recently developed a passion for
-          writing code.
+        I graduated with a degree in Engineering from Amity University Gurgaon 
+        and have been working as a mobile developer, specializing in native iOS 
+        and Android applications, with some experience in cross-platform development. 
+        Alongside my work, I'm involved in various digital solutions projects and 
+        have developed a passion for coding.
         </Text>
         <Heading mb="0.5rem" as="h3" variant="h3">
           What I’ve been up to
         </Heading>
         <Text mb="2rem">
-          I've been recently focused on building React applications, diving
-          deeper into React itself as well as libraries and tools surrounding
+          I've been recently focused on building IOS applications, diving
+          deeper into Swift/SwiftUI itself as well as libraries and tools surrounding
           it. I've also been learning lots too-like how to test my code
           effectively, optimizing performance and I've also started recently
-          learning Typescript and already feeling the benefits of type safety
+          learning Dart and already feeling the benefits of cross-platform
           and all the other great things it brings!{' '}
         </Text>
         <Text mb="2rem">
@@ -76,20 +77,20 @@ const Intro = () => {
           further by creating more content such as tutorials and courses.
         </Text>
         <Text mb="6.5rem">
-          I’ve also recently become a Facilitator at{' '}
-          <Link href="https://chingu.io/">Chingu</Link> where I review project
-          submissions and support individuals and teams. Participating in group
-          projects and working with others proved really beneficial for me, so
-          I'm super grateful I have the opportunity to give back to an amazing
-          community!
+        I worked as a mobile app consultant, gathering requirements and helping 
+        clients translate their ideas into  successful  applications.   This 
+        experience has allowed me to deepen my understanding of the mobile 
+        app development process and work closely with clients to ensure their 
+        needs are met. I’m grateful for the opportunity  to  contribute to 
+        innovative projects and support the growth of the mobile app community!
         </Text>
         <Heading mb="0.5rem" as="h3" variant="h3">
           Interests
         </Heading>
         <Text mb="2rem">
           I’m currently interested in building and supporting the community
-          around web development, whether that be through my participation in
-          Chingu, live streams, or <Link href={discord.href}>my discord</Link>.
+          around Mobile development, whether that be through my participation in
+          Events, live streams, or through forums or discord.
         </Text>
         <Text mb="2rem">
           I’m also really into <em>Design Systems</em> and{' '}
@@ -100,7 +101,7 @@ const Intro = () => {
         <Text mb="2rem">
           When I'm not coding (or writing or reading about it) you'll typically
           find me engaging with another creative or engaging activity such as
-          writing music, 3D motion design, gaming, curating playlists, or
+          writing music, 3D motion design,video editing, gaming, curating playlists, or
           occasionally getting lost in a Netflix series!
         </Text>
         <Text>
